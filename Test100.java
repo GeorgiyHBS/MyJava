@@ -21,20 +21,3 @@ public class Test100 {
 		}	
 	}
 }
-
-
-
-/*
-
-
-echo "# MyJava" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/GeorgiyHBS/MyJava.git
-git push -u origin master
-
-I AM A DEVELOPER!!!!
-
-*/
-
